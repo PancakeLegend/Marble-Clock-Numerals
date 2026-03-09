@@ -1,6 +1,9 @@
 # Marble-Clock-Numerals
 An exploration of digital display numerals focused on efficiency. 
 
+![Numerals]([path/to/your/image.svg](https://raw.githubusercontent.com/PancakeLegend/Marble-Clock-Numerals/refs/heads/main/Marble%20Clock%20Numeral%20Design.svg)
+
+
 
 A response to [design](https://www.youtube.com/watch?v=aYX8qytpilQ) by Strange Inventions (Jens Maker Adventures)
 

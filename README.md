@@ -4,35 +4,56 @@ An exploration of digital display numerals focused on efficiency.
 
 A response to [design](https://www.youtube.com/watch?v=aYX8qytpilQ) by Strange Inventions (Jens Maker Adventures)
 
-OP Design
+### OP Design
 
 0-1 = 0 moves within, 7 put to bank
+
 1-2 = 1 move within, 6 pulled from bank
+
 2-3 = 1 move within
+
 3-4 = 1 move within, 2 put to bank
+
 4-5 = 1 move within, 2 pulled from bank
+
 5-6 = 0 moves within, 1 pulled from bank
+
 6-7 = 1 move within, 5 put to bank
+
 7-8 = 0 moves within, 6 pulled from bank
+
 8-9 = 0 moves within, 1 put to bank
+
 9-0 = 1 move within
+
 
 = 36 total operations, 30 put/pull
 
-New Design
+### New Design
 
 0-1 = 6 moves within
+
 1-2 = 2 moves within
+
 2-3 = 2 moves within
+
 3-4 = 4 moves within
+
 4-5 = 1 move within, 2 pulled from bank
+
 5-6 = 2 moves within
+
 6-7 = 2 move within, 3 put to bank
+
 7-8 = 0 moves within, 4 pulled from bank
+
 8-9 = 1 move within, 1 put to bank 
+
 9-0 = 2 moves within, 2 put to to bank 
 
+
 = 34 total operations, 12 put/pull
+
 
 New design results in 2 fewer operations overall, but reduces the put and pull from the bank by 18 operations.
 
